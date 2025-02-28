@@ -3,13 +3,13 @@
 A simple, responsive movie search app built with Vite and React, using the OMDB API. Search movies and view stylish, interactive cards.
 
 ## Features
-Fast movie search
-Responsive design
+- Fast movie search
+- Responsive design
 
 ## Tech
-Vite + React
-Tailwind CSS
-OMDB API + Axios
+- Vite + React
+- Tailwind CSS
+- OMDB API + Axios
 
 
 
