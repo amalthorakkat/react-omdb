@@ -8,8 +8,11 @@ Currently, two official plugins are available:
 
 
 DESKTOP
+
 ![Homepage Screenshot]( src/assets/sreenshot/ss.png)
+
 MOBILE
+
 ![Homepage Screenshot](src/assets/sreenshot/ssmb.jpg)
 
 
