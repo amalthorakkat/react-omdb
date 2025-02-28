@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+:root{
+    font-family: "Poppins", sans-serif;
+}
+
+.menu-transition {
+    transition: all 0.3s ease-in-out;
+  }
