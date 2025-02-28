@@ -1,17 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Movie Search App
+A simple, responsive movie search app built with Vite and React, using the OMDB API. Search movies and view stylish, interactive cards.
 
-Currently, two official plugins are available:
+## Features
+Fast movie search
+Responsive design
+
+## Tech
+Vite + React
+Tailwind CSS
+OMDB API + Axios
 
 
 
 
-DESKTOP
+## DESKTOP
 
 ![Homepage Screenshot]( src/assets/sreenshot/ss.png)
 
-MOBILE
+## MOBILE
 
 ![Homepage Screenshot](src/assets/sreenshot/ssmb.jpg)
 
