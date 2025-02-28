@@ -18,8 +18,6 @@ A simple, responsive movie search app built with Vite and React, using the OMDB 
 
 ![Homepage Screenshot]( src/assets/sreenshot/ss.png)
 
-## MOBILE
 
-![Homepage Screenshot](src/assets/sreenshot/ssmb.jpg)
 
 
